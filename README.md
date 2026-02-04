@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Siya 👋
+I'm a Computer Application graduate with hands on experience in **frontend development** and **foundational AI workflow**.
+I enjoy building clean, user-freindly interfaces and understanding how intelligent systems support real world products.
 
-<!--
-**SiaSikka/SiaSikka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 What I work with
+- Frontend: HTML, CSS (Responsive Design), JavaScript  
+- Basics of AI & Data: Python, ML fundamentals, data preprocessing  
+- Tools: GitHub, VS Code, Notion, Slack, Google Workspace
 
-Here are some ideas to get you started:
+### 🛠️ Projects
+- **Task Management Web App** – Frontend-focused app using HTML, CSS, JS  
+- **Restaurant Website** – Responsive UI with menu & contact features  
+- **Cancer Risk Assessment (Team Project)** – Python-based ML exposure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/siya-sikka-22916425b
+- Email: siyasikka2@gmail.com
